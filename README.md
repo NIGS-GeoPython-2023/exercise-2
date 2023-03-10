@@ -18,7 +18,7 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 
 ### Clone the Exercise 2 repository
 
-Make sure you have cloned your own repository from Github Classroom (note that repository name contains your GitHub username).
+Make sure you have cloned your own repository from [Github Classroom](https://classroom.github.com/a/lidLTKiq) (note that repository name contains your GitHub username).
 
 After solving the problems, remember to commit your changes and push them to GitHub.
 Remember also to answer all written questions in the exercise, in addition to the programming tasks.
